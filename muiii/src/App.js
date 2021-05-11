@@ -1,6 +1,8 @@
 import React from 'react'
 import { BrowserRouter, Switch, Route } from 'react-router-dom'
 import "bootstrap/dist/css/bootstrap.min.css";
+import Index from './components/Index';
+import Add from './components/Add';
 function App() {
   return (
     <>
